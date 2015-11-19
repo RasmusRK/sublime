@@ -5,6 +5,8 @@ Sublime Editor
 - Downloade og tilføje pakker til sublimes mapper
 
 - Hvilke pakker skal du have
+    F#
+    Autocomplete
 
 - Snippets(De er for seje)
 
@@ -25,20 +27,18 @@ Sublime Editor
     Multiple cursor         : shift + alt + pil op/ned
     Marker et ord           : ctrl + d
     Marker det samme        : ctrl + d + d...d
-
+    Til Uppercase           : Ctrl + KU    
+    Til Lowercase           : Ctrl + KL
+    
 - Movement
-    Skift linjer op/ned     : ctrl+shift + pil op/ned
-    Skift tabs              : ctrl+tab / ctrl + shift + tab
+    Skift linjer op/ned         : ctrl+shift + pil op/ned
+    Skift tabs                  : ctrl+tab / ctrl + shift + tab
+    Indsæt linje efter          : ctrl + enter
+    Hop til matchene parentes   : ctrl + M
 
+- Find ting
+    ctrl + F                    : Find 
+    ctrl + H                    : Erstat
+    ctrl + shift + f            : find i alle filer
 
-
-Visse hvordan den autocompleter, som f.eks. med PHP (eller sprog de lærer)
-Ctrl+Alt+(pil op/pil ned) (tilføj noget til flere linjer og indentering)
-Find og erstat med regex
-Sæt ekstra cursorer hvor søgne ord blev fundet
-
-Små edits:
-    Lav markeringen lower case
-    Reindent markeringen
-        Andre idéer?
 
